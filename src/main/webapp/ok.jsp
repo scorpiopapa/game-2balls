@@ -24,7 +24,7 @@ service.processFeedback(category, uid, email, new String(feedback.getBytes("ISO-
 //out.print(msg);
 %>
     <div class="xi_ok">
-         提交成功！
+         Submit done!
     </div>
 
 

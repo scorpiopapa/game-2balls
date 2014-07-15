@@ -25,8 +25,8 @@ import org.springframework.mail.javamail.JavaMailSender;
 
 public class Service {
 
-	static final String DRAW_THE_SPEED = "speed";
-	static final String HOLLY_CHAINS = "chains";
+//	static final String DRAW_THE_SPEED = "speed";
+//	static final String HOLLY_CHAINS = "chains";
 	
 	static final String OTHER = "other";
 	
